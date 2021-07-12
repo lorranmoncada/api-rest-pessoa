@@ -1,0 +1,17 @@
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\bin\Debug\net5.0\Pessoa.Fisica.Infraestructure.deps.json
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\bin\Debug\net5.0\Pessoa.Fisica.Infraestructure.dll
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\bin\Debug\net5.0\ref\Pessoa.Fisica.Infraestructure.dll
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\bin\Debug\net5.0\Pessoa.Fisica.Infraestructure.pdb
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\bin\Debug\net5.0\Pessoa.Core.dll
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\bin\Debug\net5.0\Pessoa.Fisica.Domain.dll
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\bin\Debug\net5.0\Pessoa.Fisica.Domain.pdb
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\bin\Debug\net5.0\Pessoa.Core.pdb
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\obj\Debug\net5.0\Pessoa.Fisica.Infraestructure.csprojAssemblyReference.cache
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\obj\Debug\net5.0\Pessoa.Fisica.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\obj\Debug\net5.0\Pessoa.Fisica.Infraestructure.AssemblyInfoInputs.cache
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\obj\Debug\net5.0\Pessoa.Fisica.Infraestructure.AssemblyInfo.cs
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\obj\Debug\net5.0\Pessoa.Fisica.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\obj\Debug\net5.0\Pessoa.Fisica.Infraestructure.csproj.CopyComplete
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\obj\Debug\net5.0\Pessoa.Fisica.Infraestructure.dll
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\obj\Debug\net5.0\ref\Pessoa.Fisica.Infraestructure.dll
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Infraestructure\obj\Debug\net5.0\Pessoa.Fisica.Infraestructure.pdb

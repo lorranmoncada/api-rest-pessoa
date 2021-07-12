@@ -1,0 +1,11 @@
+C:\Estudo\pessoa-api\Pessoa.Core\bin\Debug\net5.0\Pessoa.Core.deps.json
+C:\Estudo\pessoa-api\Pessoa.Core\bin\Debug\net5.0\Pessoa.Core.dll
+C:\Estudo\pessoa-api\Pessoa.Core\bin\Debug\net5.0\ref\Pessoa.Core.dll
+C:\Estudo\pessoa-api\Pessoa.Core\bin\Debug\net5.0\Pessoa.Core.pdb
+C:\Estudo\pessoa-api\Pessoa.Core\obj\Debug\net5.0\Pessoa.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\pessoa-api\Pessoa.Core\obj\Debug\net5.0\Pessoa.Core.AssemblyInfoInputs.cache
+C:\Estudo\pessoa-api\Pessoa.Core\obj\Debug\net5.0\Pessoa.Core.AssemblyInfo.cs
+C:\Estudo\pessoa-api\Pessoa.Core\obj\Debug\net5.0\Pessoa.Core.csproj.CoreCompileInputs.cache
+C:\Estudo\pessoa-api\Pessoa.Core\obj\Debug\net5.0\Pessoa.Core.dll
+C:\Estudo\pessoa-api\Pessoa.Core\obj\Debug\net5.0\ref\Pessoa.Core.dll
+C:\Estudo\pessoa-api\Pessoa.Core\obj\Debug\net5.0\Pessoa.Core.pdb

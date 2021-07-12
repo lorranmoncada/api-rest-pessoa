@@ -1,0 +1,17 @@
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\bin\Debug\net5.0\Pessoa.Juridica.Infraestructure.deps.json
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\bin\Debug\net5.0\Pessoa.Juridica.Infraestructure.dll
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\bin\Debug\net5.0\ref\Pessoa.Juridica.Infraestructure.dll
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\bin\Debug\net5.0\Pessoa.Juridica.Infraestructure.pdb
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\bin\Debug\net5.0\Pessoa.Core.dll
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\bin\Debug\net5.0\Pessoa.Juridica.Domain.dll
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\bin\Debug\net5.0\Pessoa.Core.pdb
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\bin\Debug\net5.0\Pessoa.Juridica.Domain.pdb
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\obj\Debug\net5.0\Pessoa.Juridica.Infraestructure.csprojAssemblyReference.cache
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\obj\Debug\net5.0\Pessoa.Juridica.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\obj\Debug\net5.0\Pessoa.Juridica.Infraestructure.AssemblyInfoInputs.cache
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\obj\Debug\net5.0\Pessoa.Juridica.Infraestructure.AssemblyInfo.cs
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\obj\Debug\net5.0\Pessoa.Juridica.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\obj\Debug\net5.0\Pessoa.Juridica.Infraestructure.csproj.CopyComplete
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\obj\Debug\net5.0\Pessoa.Juridica.Infraestructure.dll
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\obj\Debug\net5.0\ref\Pessoa.Juridica.Infraestructure.dll
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Infraestructure\obj\Debug\net5.0\Pessoa.Juridica.Infraestructure.pdb

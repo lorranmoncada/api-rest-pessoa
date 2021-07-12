@@ -1,0 +1,15 @@
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\bin\Debug\net5.0\Pessoa.Fisica.Domain.deps.json
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\bin\Debug\net5.0\Pessoa.Fisica.Domain.dll
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\bin\Debug\net5.0\ref\Pessoa.Fisica.Domain.dll
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\bin\Debug\net5.0\Pessoa.Fisica.Domain.pdb
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\bin\Debug\net5.0\Pessoa.Core.dll
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\bin\Debug\net5.0\Pessoa.Core.pdb
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\obj\Debug\net5.0\Pessoa.Fisica.Domain.csprojAssemblyReference.cache
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\obj\Debug\net5.0\Pessoa.Fisica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\obj\Debug\net5.0\Pessoa.Fisica.Domain.AssemblyInfoInputs.cache
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\obj\Debug\net5.0\Pessoa.Fisica.Domain.AssemblyInfo.cs
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\obj\Debug\net5.0\Pessoa.Fisica.Domain.csproj.CoreCompileInputs.cache
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\obj\Debug\net5.0\Pessoa.Fisica.Domain.csproj.CopyComplete
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\obj\Debug\net5.0\Pessoa.Fisica.Domain.dll
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\obj\Debug\net5.0\ref\Pessoa.Fisica.Domain.dll
+C:\Estudo\pessoa-api\src\Pessoa.Fisica.Domain\obj\Debug\net5.0\Pessoa.Fisica.Domain.pdb

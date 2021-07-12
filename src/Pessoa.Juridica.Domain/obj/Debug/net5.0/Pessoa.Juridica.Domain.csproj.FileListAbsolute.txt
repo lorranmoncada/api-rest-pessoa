@@ -1,0 +1,15 @@
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\bin\Debug\net5.0\Pessoa.Juridica.Domain.deps.json
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\bin\Debug\net5.0\Pessoa.Juridica.Domain.dll
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\bin\Debug\net5.0\ref\Pessoa.Juridica.Domain.dll
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\bin\Debug\net5.0\Pessoa.Juridica.Domain.pdb
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\bin\Debug\net5.0\Pessoa.Core.dll
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\bin\Debug\net5.0\Pessoa.Core.pdb
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\obj\Debug\net5.0\Pessoa.Juridica.Domain.csprojAssemblyReference.cache
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\obj\Debug\net5.0\Pessoa.Juridica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\obj\Debug\net5.0\Pessoa.Juridica.Domain.AssemblyInfoInputs.cache
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\obj\Debug\net5.0\Pessoa.Juridica.Domain.AssemblyInfo.cs
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\obj\Debug\net5.0\Pessoa.Juridica.Domain.csproj.CoreCompileInputs.cache
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\obj\Debug\net5.0\Pessoa.Juridica.Domain.csproj.CopyComplete
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\obj\Debug\net5.0\Pessoa.Juridica.Domain.dll
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\obj\Debug\net5.0\ref\Pessoa.Juridica.Domain.dll
+C:\Estudo\pessoa-api\src\Pessoa.Juridica.Domain\obj\Debug\net5.0\Pessoa.Juridica.Domain.pdb
