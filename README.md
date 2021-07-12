@@ -6,7 +6,7 @@
 ## 🔖&nbsp; Sobre
 
 O projeto **Pessoas** é uma API que cadastra pessoas físicas e jurídicas
-Foi utilizado principios do Solid, estratura do DDD, CQRS, patterns como Unit of Work e estrutura para micro serviços 
+foram utilizado principios do Solid, estrutura do DDD, CQRS, patterns como Unit of Work e estrutura para micro serviços 
 A Api se encotra no Heroku - https://www.heroku.com
 ---
 Url no Swagger: https://api-pessoa-sb.herokuapp.com/swagger/index.html
